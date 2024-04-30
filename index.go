@@ -32,8 +32,8 @@ func main() {
 		panic(err)
 	}
 
-	today := os.Getenv("SYNC_START_DATE")
-	yesterday := os.Getenv("SYNC_END_DATE")
+	today := os.Getenv("SYNC_END_DATE")
+	yesterday := os.Getenv("SYNC_START_DATE")
 
 	log.Printf("getting commits since %s until %s", yesterday, today)
 
