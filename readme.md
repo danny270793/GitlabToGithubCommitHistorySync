@@ -1,6 +1,6 @@
 # GitlabToGithubCommitHistorySync
 
-[![GitlabToGithubCommitHistorySync](https://github.com/danny270793/GitlabToGithubCommitHistorySync/actions/workflows/release.yaml/badge.svg)](https://github.com/danny270793/GitlabToGithubCommitHistorySync/actions/workflows/release.yaml)
+[![GitlabToGithubCommitHistorySync](https://github.com/danny270793/GitlabToGithubCommitHistorySync/actions/workflows/releaser.yaml/badge.svg)](https://github.com/danny270793/GitlabToGithubCommitHistorySync/actions/workflows/release.yaml)
 
 Make commits on a github private repo to sync the commit histpry from all gitlab ussing the events api
 
