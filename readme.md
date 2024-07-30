@@ -70,7 +70,7 @@ GitlabToGithubCommitHistorySync
 
 ## LICENSE
 
-Licensed under the [MIT](license.md) License
+Licensed under the [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](license.md)
 
 ## Version
 
