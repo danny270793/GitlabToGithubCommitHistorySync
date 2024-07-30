@@ -1,6 +1,11 @@
 # GitlabToGithubCommitHistorySync
 
 [![GitlabToGithubCommitHistorySync](https://github.com/danny270793/GitlabToGithubCommitHistorySync/actions/workflows/releaser.yaml/badge.svg)](https://github.com/danny270793/GitlabToGithubCommitHistorySync/actions/workflows/release.yaml)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/danny270793/GitlabToGithubCommitHistorySync)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/danny270793/GitlabToGithubCommitHistorySync/total)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/danny270793/GitlabToGithubCommitHistorySync)
+![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/danny270793/GitlabToGithubCommitHistorySync)
+![GitHub Tag](https://img.shields.io/github/v/tag/danny270793/GitlabToGithubCommitHistorySync)
 
 Make commits on a github private repo to sync the commit histpry from all gitlab ussing the events api
 
@@ -70,7 +75,8 @@ GitlabToGithubCommitHistorySync
 
 ## LICENSE
 
-Licensed under the [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](license.md)
+Licensed under the [![GitHub License](https://img.shields.io/github/license/danny270793/GitlabToGithubCommitHistorySync)
+](license.md)
 
 ## Version
 
