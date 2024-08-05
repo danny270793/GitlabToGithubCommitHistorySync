@@ -5,7 +5,6 @@
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/danny270793/GitlabToGithubCommitHistorySync/total)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/danny270793/GitlabToGithubCommitHistorySync)
 ![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/danny270793/GitlabToGithubCommitHistorySync)
-![GitHub Tag](https://img.shields.io/github/v/tag/danny270793/GitlabToGithubCommitHistorySync)
 
 Make commits on a github private repo to sync the commit histpry from all gitlab ussing the events api
 
@@ -80,6 +79,6 @@ GitlabToGithubCommitHistorySync
 
 ## Version
 
-GitlabToGithubCommitHistorySync version 1.0.0
+![GitHub Tag](https://img.shields.io/github/v/tag/danny270793/GitlabToGithubCommitHistorySync)
 
 Last update 29/07/2024
