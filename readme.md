@@ -75,7 +75,7 @@ GitlabToGithubCommitHistorySync
 
 ## LICENSE
 
-Licensed under the [![GitHub License](https://img.shields.io/github/license/danny270793/GitlabToGithubCommitHistorySync)
+[![GitHub License](https://img.shields.io/github/license/danny270793/GitlabToGithubCommitHistorySync)
 ](license.md)
 
 ## Version
